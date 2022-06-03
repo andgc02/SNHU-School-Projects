@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+C:\Users\manny\Documents\Visual Studio 2022\Repos\Module Two Assignment\Calculator.cpp(14,7): warning C4101: 'statement': unreferenced local variable
+  Module Two Assignment.vcxproj -> C:\Users\manny\Documents\Visual Studio 2022\Repos\Module Two Assignment\x64\Debug\Module Two Assignment.exe
